@@ -2,4 +2,4 @@
 Learnning
 
 Hello world
-    - `This is the learnning for GitHub by guide.`.
+    This is the learnning for GitHub by guide.
